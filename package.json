@@ -1,0 +1,16 @@
+{
+  "name": "chainlink-price-feed",
+  "version": "1.0.0",
+  "description": "The file `getLatestPriceETHUSD.js` retrieves the ETH/USD price feed from [Chainlink](https://chain.link/)'s oracle.",
+  "main": "getLatestPriceETHUSD.js",
+  "dependencies": {
+    "web3": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
