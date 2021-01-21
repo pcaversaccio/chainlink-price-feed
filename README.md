@@ -1,7 +1,7 @@
 # Ethereum Price Feeds from Chainlink
 The file `getLatestPriceETHUSD.js` retrieves the ETH/USD price feed from [Chainlink](https://chain.link/)'s oracle using [Infura](https://infura.io/). First, run `npm i` and thereafter `node getLatestPriceETHUSD.js`.
 
-## Addresses
+## Price Feed ETH/USD Contract Addresses
 ### Mainnet
 address = `0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419`
 ### Rinkeby
