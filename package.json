@@ -4,7 +4,7 @@
   "description": "Retrieve the ETH/USD price feed from Chainlink's oracle using Infura.",
   "main": "getLatestPriceETHUSD.js",
   "dependencies": {
-    "web3": "^1.3.1"
+    "web3": "^1.8.1"
   },
   "devDependencies": {},
   "scripts": {
